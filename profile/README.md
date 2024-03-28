@@ -32,9 +32,9 @@
     <a href="#"><img src="https://1000logos.net/wp-content/uploads/2024/02/Gemini-Logo.png" alt="Gemini" width="70" height="40"/></a>
   </p>
 </div>
-
-# NO MERGE CONFLICTS PLEASEEE
-
+<div align="center">
+ <h1> NO MERGE CONFLICTS PLEASEEE </h1>
+</div>
  
 
 
