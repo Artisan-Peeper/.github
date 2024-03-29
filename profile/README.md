@@ -30,6 +30,8 @@
     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
     <a href="#"><img src="https://1000logos.net/wp-content/uploads/2024/02/Gemini-Logo.png" alt="Gemini" width="70" height="40"/></a>
+    <a href="#"><img src="https://static-00.iconduck.com/assets.00/postman-icon-2048x2026-lg873y7v.png" alt="Gemini" width="50" height="50"/></a>
+      
   </p>
 </div>
 <div align="center">
