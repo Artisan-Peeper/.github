@@ -13,8 +13,9 @@
 <div align="center">
 <h2>WPH DIGITAL HACKATHON 2024 | ByteMeHarder PH</h2>
 </div>
+<hr>
 <div style="width: 80%; margin: 0 auto;">
-  <h3 align="center">Tech Stack: </h3>
+  <h3 align="center">Technologies </h3>
   <p align="center">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
@@ -27,9 +28,7 @@
       
   </p>
 </div>
-<div align="center">
- <h1> NO MERGE CONFLICTS PLEASEEE </h1>
-</div>
+<hr>
  
 
 
