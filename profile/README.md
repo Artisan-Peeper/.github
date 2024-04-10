@@ -11,7 +11,7 @@
    </pre>                                                                                             
 
 <div align="center">
-<h2>WPH DIGITAL HACKATHON 2024</h2>
+<h2>WPH DIGITAL HACKATHON 2024 | ByteMeHarder PH</h2>
 </div>
 <div style="width: 80%; margin: 0 auto;">
   <h3 align="center">Tech Stack: </h3>
